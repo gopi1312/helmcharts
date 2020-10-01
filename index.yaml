@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  appchart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-10-01T11:02:01.608065391Z"
+    description: A Helm chart for Kubernetes
+    digest: 58ba5173ccd4c0985a430610fa771935d38d7c93f6beeba8e71005bd9bd1fa8f
+    name: appchart
+    urls:
+    - https://github.com/gopi1312/helmcharts/releases/download/appchart-0.1.0/appchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-01T11:02:01.487444305Z"
