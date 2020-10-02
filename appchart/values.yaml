@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 181300079289.dkr.ecr.us-east-1.amazonaws.com/demopoc1:$BUILD_NUMBER
+  repository: 181300079289.dkr.ecr.us-east-1.amazonaws.com/demopoc1:latest
 
 service:
   type: LoadBalancer
